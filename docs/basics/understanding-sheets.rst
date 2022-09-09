@@ -61,6 +61,7 @@ How to *prevent* sheet closure/removal
 --------------------------------------
 
 You can prevent VisiData from quitting a sheet by "guarding" it. To do so, press :kbd:`Space` to raise the type-a-command prompt. Then, type ``guard-sheet`` and press :kbd:`Enter`.
+You can also unguard a sheet again with command ``unguard-sheet``.
 
 
 Quickly toggling between sheets
